@@ -1,8 +1,6 @@
 import sys
 import numpy as np
 import tensorflow as tf
-import platform
-print platform.python_version()
 from datetime import datetime
 
 device_name = sys.argv[1]  # Choose device from cmd line. Options: gpu or cpu
