@@ -1,5 +1,6 @@
 [[source]]
-url = "https://index-aicoe.a3c1.starter-us-west-1.openshiftapps.com/rhel7.5/1.9/jemalloc/simple"
+#url = "https://index-aicoe.a3c1.starter-us-west-1.openshiftapps.com/rhel7.5/1.9/jemalloc/simple"
+url = "https://index-aicoe.a3c1.starter-us-west-1.openshiftapps.com/centos7/1.9/cuda9.2+jemalloc/simple"
 verify_ssl = true
 name = "redhat-aicoe-experiments"
 
